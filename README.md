@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lazaro-Martinez-de-la-Hidalga
-- 👀 I’m interested in ...
+- 👀 I’m interested in knowing backend and frontend.
 - 🌱 I’m currently learning DAW
 - 📫 How to reach me via email mrlalo[at]mrlalo.com
 - 😄 Pronouns: Lalo
