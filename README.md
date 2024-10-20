@@ -14,8 +14,8 @@ ___
  Los lenguajes para empezar serán:
 
 * ![HTML](/imagenes/logo-html5.png) 
-* CSS
-* JAVASCRIPT  
+* ![CSS](/imagenes/logo-css3.png) 
+* ![JAVASCRIPT](/imagenes/logo-JS.png) 
 
 Herramientas como:
 * GIT
