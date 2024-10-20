@@ -13,7 +13,7 @@ ___
 <br>
  Los lenguajes para empezar serán:
 
-* [HTML](/imagenes/logo-html5.svg) 
+* [HTML](imagenes/logo-html5.svg) 
 * CSS
 * JAVASCRIPT  
 
