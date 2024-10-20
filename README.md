@@ -11,9 +11,9 @@
 * Escuchar música variada.  
 ___
 <br>
- Los lenguajes para empezar serán:
-
-* ![HTML](/imagenes/logo-html5.png) ![CSS](/imagenes/logo-css3.png) ![JAVASCRIPTS](/imagenes/logo-js.png) 
+ Los lenguajes para empezar serán:  
+   
+![HTML](/imagenes/logo-html5.png) ![CSS](/imagenes/logo-css3.png) ![JAVASCRIPTS](/imagenes/logo-js.png) 
 
 Herramientas como:
 * GIT
