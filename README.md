@@ -9,8 +9,9 @@
 * Senderismo, con mi esposa y cuando se animan los peques, que hay que [bregar](https://www.google.com/search?q=bregar&rlz=1C1CHBF_esES923ES923&oq=bregar&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIKCAEQABixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIJCAkQABgKGIAE0gEIMTI1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8) un montón para que se vengan y si es acompañado con buena gente mejor, como el club Senderista de Totana, genial.   
 * Escuchar música variada.  
 ___
-<br>
- Los lenguajes para empezar serán: 
+
+   
+#### Los lenguajes para empezar serán: 
 
  - [HTML](https://es.wikipedia.org/wiki/HTML)
  - [CSS](https://es.wikipedia.org/wiki/CSS)
@@ -18,7 +19,7 @@ ___
   
 ![HTML](/imagenes/logo-html5.png "HTML") ![CSS](/imagenes/logo-css3.png "CSS") ![JAVASCRIPTS](/imagenes/logo-js.png "Javascript") 
 
-También utilizaremos:
+#### También utilizaremos:
 - [Github](https://github.com/)
 - [VsCode](https://code.visualstudio.com/)
 
