@@ -32,6 +32,8 @@ ___
 ##### Hobbies
 * Ciclismo, con la grupeta *La Cruz* en 🚴‍♂️carretera y **Los Chupitenes** en 🚵MTB.  
 * Senderismo, con mi esposa y cuando se animan los peques, que hay que [bregar](https://www.google.com/search?q=bregar&rlz=1C1CHBF_esES923ES923&oq=bregar&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIKCAEQABixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIJCAkQABgKGIAE0gEIMTI1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8) un montón para que se vengan y si es acompañado con buena gente mejor, como el club Senderista de Totana, genial.   
-* Escuchar música variada.    
+* Escuchar música variada.
+
+##### Contacto
 📫 Para ponerse en contacto al [Email](mrlalo@mrlalo.com)    
   
