@@ -2,7 +2,7 @@
 
 👋 Hola Mundo  
 😄 Apodo: Lalo  
-👀 Estoy inscrito en el curso de DAW, CIFPD "La Conservera" de Ceutí (Región de Murcia) en modalidad a distancia, estoy matriculado en 1º.
+👀 Estoy matriculado en el curso de DAW, CIFPD "La Conservera" de Ceutí (Región de Murcia) en modalidad a distancia, estoy matriculado en 1º.
  🌱 Tengo la ilusión de volver a estudiar y aprender DAW y hasta donde me lleve...  
  ⚡ Tengo varios hobbies como son:  
 * Ciclismo, con la grupeta La Cruz en carretera y los Chupitenes en MTB.  
@@ -15,13 +15,12 @@ ___
  - [HTML](https://es.wikipedia.org/wiki/HTML)
  - [CSS](https://es.wikipedia.org/wiki/CSS)
  - [JAVASCRIPTS](https://es.wikipedia.org/wiki/JavaScript)
-   
+  
 ![HTML](/imagenes/logo-html5.png) ![CSS](/imagenes/logo-css3.png) ![JAVASCRIPTS](/imagenes/logo-js.png) 
 
-Herramientas como:  
-- [GIT]
-* VSCODE
+También utilizaremos:
+- [Github](https://github.com/)
+- [VSCODE](https://code.visualstudio.com/)
 
-
-
-📫 La forma de ponerse en contacto es vía email mrlalo[at]mrlalo.com  
+📫 Para ponerse en contacto al [Email](mrlalo@mrlalo.com)    
+  
