@@ -15,17 +15,25 @@ ___
  - Digitalización Aplicada al Sistema Productivo.
  - Inglés Profesional.
    
-### Los lenguajes para empezar serán: 
+### Utilizaremos: 
 
  - [HTML](https://es.wikipedia.org/wiki/HTML)
  - [CSS](https://es.wikipedia.org/wiki/CSS)
  - [JAVASCRIPTS](https://es.wikipedia.org/wiki/JavaScript)
-  
+ - [Github](https://github.com/)
+ - [VsCode](https://code.visualstudio.com/)
+    
 ![HTML](/imagenes/logo-html5.png "HTML") ![CSS](/imagenes/logo-css3.png "CSS") ![JAVASCRIPTS](/imagenes/logo-js.png "Javascript") 
 
-### También utilizaremos:
-- [Github](https://github.com/)
-- [VsCode](https://code.visualstudio.com/)
+Y otras muchas que iremos conociendo, algunas me suenas y otras ni idea, con lo cual tendremos que echarle unos buenos ratos para saber cuando es:
+- Frontend
+- Backend
+- Full-Stack
+- Diseño UI/UX
+  
+### Desarrollo de Aplicaciones Web
+Este es el primer ejercicio de Lenguajes de marcas a 27/10/2024, volveré a modificar y a mejorar.... 
+
 
 
 
@@ -35,5 +43,5 @@ ___
 * Escuchar música variada.
 
 ##### Contacto
-📫 Para ponerse en contacto al [Email](mrlalo@mrlalo.com)    
+📫 Si quieres contarme algo [Email](mrlalo@mrlalo.com)    
   
